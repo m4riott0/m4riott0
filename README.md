@@ -3,10 +3,9 @@
 
 
 -  Atualmente estou em busca de uma oportunidade 
--  Atualmente estou aprendendo C#, SQLserver
+-  Atualmente estou aprendendo desenvolvimento mobile
 -  Estou procurando colaborar em projetos
 -  Como entrar em contato comigo: Minhas redes estão ao lado esquerdo
--  Curiosidade: Minha maior inspiração para desenvolver é um bom Lo-fi com um café ouvindo o barulho da chuva.
 - :monocle_face: Pretendo adicionar mais alguns projetos no meu perfil que estão em outros locais.
 
 ## Ferramentas e Tecnologias
