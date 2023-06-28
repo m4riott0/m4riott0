@@ -3,7 +3,7 @@
 
 
 -  Atualmente estou em busca de uma oportunidade 
--  Atualmente estou aprendendo desenvolvimento mobile
+-  Atualmente estou aprendendo desenvolvimento mobile com flutter
 -  Estou procurando colaborar em projetos
 -  Como entrar em contato comigo: Minhas redes estão ao lado esquerdo
 - :monocle_face: Pretendo adicionar mais alguns projetos no meu perfil que estão em outros locais.
