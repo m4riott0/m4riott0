@@ -2,11 +2,11 @@
 ## Bem vindo ao meu perfil  
 
 
--  Atualmente estou em busca de uma oportunidade 
--  Atualmente estou aprendendo desenvolvimento mobile com flutter
+-  Atualmente estou em busca de uma oportunidade como desenvolvedor
+-  Sempre em busca de novos conhecimentos 
 -  Estou procurando colaborar em projetos
 -  Como entrar em contato comigo: Minhas redes estão ao lado esquerdo
-- :monocle_face: Pretendo adicionar mais alguns projetos no meu perfil que estão em outros locais.
+- :monocle_face: Pretendo adicionar alguns projetos no meu perfil que estão em outros locais.
 
 ## Ferramentas e Tecnologias
 
