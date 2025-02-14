@@ -33,5 +33,5 @@ Também conhecido como **m4riott0** 🚀
 
 ---
 
-🚀 **Objetivo:** Conseguir uma oportunidade como Desenvolvedor Full Stack e alguns freelances.  
-📩 **Vamos conversar?** Entre em contato! 😃
+🚀 **Objetivo:** Conseguir uma oportunidade como Desenvolvedor Full Stack e aprimorar meus conhecimentos 
+❗ ** Faço freelancer como desenvolvedor web qualquer orçamento basta me chamar nas redes sociais ao lado **
