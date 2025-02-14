@@ -1,24 +1,37 @@
-# Olá, me chamo Enzo, mas pode me chamar de m4riott0 se preferir !!
-## Bem vindo ao meu perfil  
+# Olá! Eu sou o Enzo 👋  
+Também conhecido como **m4riott0** 🚀  
 
+## 💻 Sobre mim  
+🔹 Desenvolvedor Full Stack em busca de oportunidades.  
+🔹 Apaixonado por tecnologia e aprendizado contínuo.  
+🔹 Aberto a colaborações em projetos interessantes.  
+🔹 Pretendo compartilhar mais projetos aqui em breve!  
 
--  Atualmente estou em busca de uma oportunidade como Desenvolvedor Full Stack
--  Sempre em busca de novos conhecimentos 
--  Estou procurando colaborar em projetos
--  Como entrar em contato comigo: Minhas redes estão ao lado esquerdo
-- :monocle_face: Pretendo adicionar alguns projetos no meu perfil que estão em outros locais.
+📬 **Entre em contato:** Minhas redes estão ao lado esquerdo!  
 
-## Ferramentas e Tecnologias
+## 🚀 Tecnologias & Ferramentas  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" idth="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" />
-          
-          
-          
-          
-
-
-<div> </div>
-<div>
-<a href="https://github.com/m4riott0%22%3E
-  <img src="./screen-0.webp" width="150" height="150" margin-left="500" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" />
 </div>
+
+## 📈 Estatísticas  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4riott0&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4riott0&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+🚀 **Objetivo:** Conseguir uma oportunidade como Desenvolvedor Full Stack e alguns freelances.  
+📩 **Vamos conversar?** Entre em contato! 😃
