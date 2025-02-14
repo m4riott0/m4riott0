@@ -4,8 +4,7 @@ Também conhecido como **m4riott0** 🚀
 ## 💻 Sobre mim  
 🔹 Desenvolvedor Full Stack em busca de oportunidades.  
 🔹 Apaixonado por tecnologia e aprendizado contínuo.  
-🔹 Aberto a colaborações em projetos interessantes.  
-🔹 Pretendo compartilhar mais projetos aqui em breve!  
+🔹 Aberto a colaborações em projetos interessantes.    
 
 📬 **Entre em contato:** Minhas redes estão ao lado esquerdo!  
 
@@ -35,4 +34,4 @@ Também conhecido como **m4riott0** 🚀
 
 🚀 **Objetivo:** Conseguir uma oportunidade como Desenvolvedor Full Stack e aprimorar meus conhecimentos.
 ---
-# ❗ Faço freelancer como desenvolvedor web qualquer orçamento basta me chamar nas redes sociais ao lado
+**❗ Faço freelancer como desenvolvedor web qualquer orçamento basta me chamar nas redes sociais ao lado**
