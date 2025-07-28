@@ -1,39 +1,18 @@
-# Hi there! I'm Enzo 👋  
-Also known as **m4riott0** 🚀  
+# Olá! Eu sou o Enzo 👋
 
-## 💻 About Me  
-🔹 Full Stack Developer looking for new opportunities.  
-🔹 Passionate about technology and continuous learning.  
-🔹 Open to collaborations on interesting projects.  
+Também conhecido como **m4riott0** 🚀
 
-📬 **Get in touch:** My social media links are on the left!  
+## 💻 Sobre mim
 
-## 🚀 Technologies & Tools  
+🔹 Desenvolvedor Full Stack em busca de novas oportunidades
+🔹 Apaixonado por tecnologia e aprendizado contínuo
+🔹 Aberto a colaborações em projetos interessantes e desafiadores
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
-</div>
+📬 **Vamos nos conectar:** Meus links estão na barra lateral à esquerda!
 
+---
 
-# Hi there! I'm Enzo 👋  
-Also known as **m4riott0** 🚀  
-
-## 💻 About Me  
-🔹 Full Stack Developer looking for new opportunities.  
-🔹 Passionate about technology and continuous learning.  
-🔹 Open to collaborations on interesting projects.  
-
-📬 **Get in touch:** My social media links are on the left!  
-
-## 🚀 Technologies & Tools  
+## 🚀 Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -44,10 +23,12 @@ Also known as **m4riott0** 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
 </div>
 
-## 📈 GitHub Stats  
+---
+
+## 📈 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4riott0&show_icons=true&theme=tokyonight" />
@@ -55,12 +36,14 @@ Also known as **m4riott0** 🚀
 </div>
 
 ---
-## 🎯 Goal: 
-- Land a Full Stack Developer role and continue growing my skillset.
+
+## 🎯 Objetivos
+
+* Conquistar uma vaga como Desenvolvedor Full Stack
+* Continuar evoluindo minhas habilidades e criando projetos incríveis
+
 ---
-**❗ I'm available for freelance work as a web developer — feel free to reach out via my social media links on the left!**
+
+**❗ Estou disponível para trabalhos freelancer como desenvolvedor web — entre em contato pelos meus links!**
+
 ---
-## 🎯 Goal: 
-- Land a Full Stack Developer role and continue growing my skillset.
----
-**❗ I'm available for freelance work as a web developer — feel free to reach out via my social media links on the left!**
