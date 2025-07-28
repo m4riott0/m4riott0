@@ -22,13 +22,6 @@ Also known as **m4riott0** 🚀
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
 </div>
 
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4riott0&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4riott0&layout=compact&theme=tokyonight" />
-</div>
-
 ---
 ## 🎯 Goal: 
 - Land a Full Stack Developer role and continue growing my skillset.
