@@ -1,18 +1,18 @@
-# Olá! Eu sou o Enzo 👋
+# Hello! I'm Enzo 👋
 
-Também conhecido como **m4riott0** 🚀
+Also known as **m4riott0** 🚀
 
-## 💻 Sobre mim
+## 💻 About Me
 
-🔹 Desenvolvedor Full Stack em busca de novas oportunidades
-🔹 Apaixonado por tecnologia e aprendizado contínuo
-🔹 Aberto a colaborações em projetos interessantes e desafiadores
+🔹 Full Stack Developer seeking new opportunities  
+🔹 Passionate about technology and continuous learning  
+🔹 Open to collaborating on interesting and challenging projects  
 
-📬 **Vamos nos conectar:** Meus links estão na barra lateral à esquerda!
+📬 **Let's connect:** My links are in the left sidebar!
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Technologies & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
@@ -29,7 +29,7 @@ Também conhecido como **m4riott0** 🚀
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4riott0&show_icons=true&theme=tokyonight" />
@@ -38,13 +38,13 @@ Também conhecido como **m4riott0** 🚀
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-* Conquistar uma vaga como Desenvolvedor Full Stack
-* Continuar evoluindo minhas habilidades e criando projetos incríveis
+* Get a position as a Full Stack Developer  
+* Continue improving my skills and building amazing projects  
 
 ---
 
-**❗ Estou disponível para trabalhos freelancer como desenvolvedor web — entre em contato pelos meus links!**
+**❗ I'm available for freelance work — contact me through my links!**
 
 ---
