@@ -1,14 +1,19 @@
-# Hello! I'm Enzo 👋
+
+# Hello, I'm Enzo 👋
 
 Also known as **m4riott0** 🚀
 
 ## 💻 About Me
 
-🔹 Full Stack Developer seeking new opportunities  
-🔹 Passionate about technology and continuous learning  
-🔹 Open to collaborating on interesting and challenging projects  
+Full Stack Developer focused on building scalable and maintainable applications.
+I have a strong interest in modern web technologies and continuously improving my engineering skills.
 
-📬 **Let's connect:** My links are in the left sidebar!
+* 🔹 Experience with **.NET, React, and TypeScript**
+* 🔹 Passionate about clean architecture and best practices
+* 🔹 Always learning and exploring new technologies
+* 🔹 Open to challenging projects and collaboration
+
+📬 **Let's connect:** Check my links in the sidebar!
 
 ---
 
@@ -40,11 +45,13 @@ Also known as **m4riott0** 🚀
 
 ## 🎯 Goals
 
-* Get a position as a Full Stack Developer  
-* Continue improving my skills and building amazing projects  
+* 🎯 Secure a role as a Full Stack Developer
+* 📚 Continuously improve in software architecture and system design
+* 🚀 Build impactful and high-quality projects
 
 ---
 
-**❗ I'm available for freelance work — contact me through my links!**
+## 💼 Availability
 
----
+I’m currently available for freelance work and new opportunities.
+Feel free to reach out through my social links.
