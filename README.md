@@ -8,7 +8,6 @@ Also known as **m4riott0** 🚀
 Full Stack Developer focused on building scalable and maintainable applications.
 I have a strong interest in modern web technologies and continuously improving my engineering skills.
 
-* 🔹 Experience with **.NET, React, and TypeScript**
 * 🔹 Passionate about clean architecture and best practices
 * 🔹 Always learning and exploring new technologies
 * 🔹 Open to challenging projects and collaboration
@@ -31,6 +30,15 @@ I have a strong interest in modern web technologies and continuously improving m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" />
+</p>
+
+## Database
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40"/>
 </p>
 
 ## 📈 GitHub Stats
