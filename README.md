@@ -31,7 +31,6 @@ I have a strong interest in modern web technologies and continuously improving m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" />
 </p>
----
 
 ## 📈 GitHub Stats
 
