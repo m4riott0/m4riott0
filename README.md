@@ -5,9 +5,6 @@
 ### Full Stack Developer • AI Agents • Scalable Applications
 
 <p>
-  <a href="https://github.com/m4riott0">
-    <img src="https://img.shields.io/badge/GitHub-m4riott0-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <img src="https://img.shields.io/badge/Full%20Stack-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-0F766E?style=for-the-badge" />
